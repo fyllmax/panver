@@ -1,0 +1,19 @@
+<h1 class="text-center jumbotron">КОМПАНИИ</h1>
+
+<div class="row">
+    {% for post in site.categories.company %}
+
+      <div class="col-sm-4 col-md-6">
+        <div class="thumbnail">
+          <img src="{{site.baseurl}}/images/{{post.image}}" alt="{{post.title}}" width="500px" height="350px">
+          <div class="caption">
+            <a href="{{site.baseurl}}{{post.url}}"><h3>{{post.title}}</h3></a>
+            <p>{{post.excerpt}}</p>
+            <p><a class="btn btn-default" href="{{site.baseurl}}{{post.url}}" role="button">Повече »</a></p>
+          </div>
+        </div>
+      </div>
+
+    {% endfor %}
+</div>
+

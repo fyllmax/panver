@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" class="full">
+  {% include head.html %}
+  <body>
+    <div class="container marketing">
+      <div class="header clearfix">
+        {% include header.html %}
+      </div>
+      {{ content }}
+      {% include footer.html %}
+    </div>
+
+  <script type="text/javascript" src="{{site.baseurl}}/bower_components/jquery/dist/jquery.min.js"></script>
+  <script src="{{site.baseurl}}/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+  <!--
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  -->
+  </body>
+</html>

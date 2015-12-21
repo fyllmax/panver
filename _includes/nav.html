@@ -1,0 +1,23 @@
+<div style="margin-top: 20px; margin-bottom: 30px;">
+    <nav>
+      <ul class="nav nav-pills pull-right">
+
+            <li role="presentation" class="{% if page.url == '/' %}active{% endif %}"><a href="{{site.baseurl}}/index.html">Начало</a></li>
+
+            {% for post in site.categories.company %}
+                <li role="presentation" class="{% if page.url == post.url %}active{% endif %}">
+                    <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+                </li>
+            {% endfor %}
+            <li role="presentation" class="{% if page.url == '/about/' %}active{% endif %}"><a href="{{site.baseurl}}/about/">За нас</a></li>
+      </ul>
+    </nav>
+
+    <div>
+        <a href="#">
+            <img alt="paner-logo" src="/images/{{site.logo}}">
+        </a>
+    </div>
+</div>
+
+

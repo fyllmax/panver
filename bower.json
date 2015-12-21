@@ -1,0 +1,22 @@
+{
+  "name": "Pavel Atanasov",
+  "authors": [
+    "fyllmax <andi_77@abv.bg>"
+  ],
+  "description": "corporate website",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
