@@ -2,7 +2,7 @@
     <nav>
       <ul class="nav nav-pills pull-right">
 
-            <li role="presentation" class="{% if page.url == '/' %}active{% endif %}"><a href="{{site.baseurl}}index.html">Начало</a></li>
+            <li role="presentation" class="{% if page.url == '/' %}active{% endif %}"><a href="{{site.baseurl}}/index.html">Начало</a></li>
 
             {% for post in site.categories.company %}
                 <li role="presentation" class="{% if page.url == post.url %}active{% endif %}">
@@ -17,7 +17,8 @@
 
     <div>
         <a href="#">
-            <img alt="paner-logo" src="images/{{site.logo}}">
+            <!-- <img alt="paner-logo" src="images/{{site.logo}}"> -->
+            <img alt="paner-logo" src="{{ images/ | prepend: site.logo }}">
         </a>
     </div>
 </div>
