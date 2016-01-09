@@ -6,9 +6,15 @@ image: product/techno-physik-thermax.jpg
 permalink: techno-physik/thermax
 ---
 
-"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+"С един поглед предимствата на вермикулита са:
+
+• Екологично съвместим
+• Устойчив на температурни промени
+• Не се напуква
+• Рециклируем
+• Гъвкав
+• Ниско тегло
+• Превъзходно качество
+• Цели листи
+• Рязане по размер
+• Формовани части."

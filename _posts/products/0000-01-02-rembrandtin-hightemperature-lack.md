@@ -6,9 +6,6 @@ image: product/rembrandtin-hightemperature-lack.jpg
 permalink: rembrandtin-lack/hightemperature-lack
 ---
 
-"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+"Високотемпературноустойчивите бои на Rembrandtin - Thermodur са идеално покритие за печки с дърва, камини и димни тръби. Сред тяхните особености са отличните цветове, издържливостта им при високи температури и отличната адхезия към не-блстираните метали.
+Благодарение на това високотемпаратурноустойчивите бои на Rembrandtin имат над 90% от пазарния дял в България.
+Предлагаме еднокомпонентни, водоразредими и двукомпонентни бои."
