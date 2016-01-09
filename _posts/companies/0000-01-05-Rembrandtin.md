@@ -4,7 +4,7 @@ title: Rembrandtin Lack
 secondTitle: Продукти
 category: company
 image: logo/rembrandtin-logo.jpg
-excerpt: Rembrandtin Lack e специализиран в производството на високотемпературноустойчиви бои, бои за пътна маркировка, антикорозионни и индустриални покрития.
+excerpt: Компанията е лидер в производството на високотемпературноустойчиви бои, бои за пътна маркировка, антикорозионни и индустриални покрития.
 permalink: rembrandtin-lack
 
 products:
