@@ -1,12 +1,12 @@
 # Site settings
-title: Панвер ООД |
+title: Панвер ООД | Бои, Лакове, Пътна Маркировка и Подемно-транспортни съоражения
 tagline: Дистрибутор на лакове за камини и бои за пътна маркировка
 logo: images/logo/panver-logo.png
 phone: +359 887 397 778
 email: info@panver.bg
 street: ул. Васил Априлов 16А
 city: гр. Горна Оряховица
-description: Търговия и дистрибуция на вермикулит бои, лакове, пътна маркировка, машини за пътна маркировка и решения при подемно-транспортни операции.
+description: Търговия и дистрибуция на вермикулит, бои, лакове, пътна маркировка, машини за пътна маркировка и решения при подемно-транспортни операции.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "panver.bg" # the base hostname & protocol for your site
 permalink: pretty
