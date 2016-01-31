@@ -1,6 +1,6 @@
 ---
 layout: product-view
-title: Машини и оборудване за пътна маркировка
+title: Решения за всички проблеми
 category: product
 image: product/pfeifer-ropes.jpg
 permalink: pfeifer/rope-solutions
